@@ -1,0 +1,33 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Facultate\An3\Scia\Proiect\Etaj 2\Etaj2 Transient liniaritate specs.net
+Start Time: Tue Jan 20 01:29:36 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.171 seconds.
+
+Files loaded:
+C:\Facultate\An3\Scia\Proiect\Etaj 2\Etaj2 Transient liniaritate specs.net
+C:\Users\andre\AppData\Local\LTspice\lib\sub\ADI.lib
+
+Fourier components of V(Vout)
+N-Period=1
+DC component:-0.00999808
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.410e+04	 9.861e-01	 1.000e+00	   85.57°	    0.00°
+    2   	 2.820e+04	 4.734e-05	 4.801e-05	  142.62°	   57.05°
+    3   	 4.230e+04	 1.813e-04	 1.838e-04	  -93.62°	 -179.19°
+    4   	 5.640e+04	 4.475e-05	 4.538e-05	  -73.29°	 -158.86°
+    5   	 7.050e+04	 1.304e-04	 1.322e-04	   95.81°	   10.24°
+    6   	 8.460e+04	 3.970e-05	 4.026e-05	   69.81°	  -15.75°
+    7   	 9.870e+04	 1.001e-04	 1.016e-04	  -62.67°	 -148.23°
+    8   	 1.128e+05	 3.302e-05	 3.348e-05	 -150.67°	 -236.23°
+    9   	 1.269e+05	 1.050e-04	 1.065e-04	  142.54°	   56.97°
+Partial Harmonic Distortion: 0.028289%
+Total Harmonic Distortion:   0.113080%
+
